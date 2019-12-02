@@ -1,0 +1,32 @@
+.padding-1{
+    padding: 10px;
+}
+.padding-2{
+    padding: 20px;
+}
+.padding-3{
+    padding: 30px;
+}
+.padding-4{
+    padding: 40px;
+}
+.padding-5{
+    padding: 50px;
+}
+.margin1{
+    margin: 10px 0 0 0;
+}
+.margin2{
+    margin: 0 10px 0 0;
+}
+.margin3{
+    margin: 0 0 10px 0;
+}
+.margin-4{
+    margin: 0 0 0 10px;
+}
+.navbar-collapse{
+    margin: 0 0 0 300px;
+}.footer {
+  background-color: #b2c3a3;
+}
